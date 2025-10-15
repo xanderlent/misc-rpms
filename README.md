@@ -1,4 +1,4 @@
-# misc-rpms for COPR
+# Misc. package sources for Fedora COPR
 
 ## Description
 
